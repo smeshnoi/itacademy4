@@ -1,0 +1,10 @@
+2018-01-27 15:22:01,715 INFO  - HHH000412: Hibernate Core {5.2.10.Final}
+2018-01-27 15:22:01,737 INFO  - HHH000206: hibernate.properties not found
+2018-01-27 15:22:02,149 WARN  - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2018-01-27 15:22:05,140 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-01-27 15:22:06,607 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-01-27 15:22:06,738 INFO  - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:chat]
+2018-01-27 15:22:06,742 INFO  - HHH10001001: Connection properties: {user=h2user, password=****}
+2018-01-27 15:22:06,744 INFO  - HHH10001003: Autocommit mode: false
+2018-01-27 15:22:06,774 INFO  - HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-01-27 15:22:09,791 INFO  - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
