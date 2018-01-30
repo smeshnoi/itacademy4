@@ -23,8 +23,8 @@ public class HeroTest {
 //        Hero hero1 = session.get(Hero.class, 1l);
 //        System.out.println(hero1.isHeroMale(hero1.getGender()));
 //        System.out.println(hero1.isHeroFemale(hero1.getGender()));
-        Inventory inventory = new Inventory("set1");
-        session.save(inventory);
+        //Inventory inventory = new Inventory("set1");
+        //session.save(inventory);
 
         //Item item = new Item("sword", inventory);
         //Item item2 = new Item("knife", inventory);

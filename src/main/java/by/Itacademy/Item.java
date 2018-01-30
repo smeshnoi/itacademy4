@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import javax.persistence.*;
+import java.util.HashSet;
 
 /**
  * Created by user on 27.01.2018.
@@ -30,8 +31,5 @@ public class Item {
     @JoinColumn(name = "id")
     private Inventory inventory;
 
-    public Item(String nameItem, Inventory inventory) {
-        this.nameItem = nameItem;
-        this.inventory = inventory;
-    }
+
 }
